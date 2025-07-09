@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>My Sattvik Book</title>
+  <link>http://localhost:3000/</link>
+  <description>Sattvik Book Chapters</description>
+  <lastBuildDate>Wed, 02 Jul 2025 22:36:25 +0000</lastBuildDate>
+  <item>
+    <title>भूमिका</title>
+    <link>http://localhost:3000/preface.html</link>
+    <guid>http://localhost:3000/preface.html</guid>
+    <pubDate>Wed, 02 Jul 2025 22:36:25 +0000</pubDate>
+    <description>भूमिका</description>
+  </item>
+  <item>
+    <title>सात्त्विक जीवन क्या है?</title>
+    <link>http://localhost:3000/what-is-sattvik.html</link>
+    <guid>http://localhost:3000/what-is-sattvik.html</guid>
+    <pubDate>Wed, 02 Jul 2025 22:36:25 +0000</pubDate>
+    <description>सात्त्विक जीवन क्या है?</description>
+  </item>
+  <item>
+    <title>दैनिक जीवन में सात्त्विकता</title>
+    <link>http://localhost:3000/daily-rhythm.html</link>
+    <guid>http://localhost:3000/daily-rhythm.html</guid>
+    <pubDate>Wed, 02 Jul 2025 22:36:25 +0000</pubDate>
+    <description>दैनिक जीवन में सात्त्विकता</description>
+  </item>
+  <item>
+    <title>सात्त्विक आहार</title>
+    <link>http://localhost:3000/sattvik-foods.html</link>
+    <guid>http://localhost:3000/sattvik-foods.html</guid>
+    <pubDate>Wed, 02 Jul 2025 22:36:25 +0000</pubDate>
+    <description>सात्त्विक आहार</description>
+  </item>
+  <item>
+    <title>सात्त्विक व्यंजन विधियाँ</title>
+    <link>http://localhost:3000/recipes.html</link>
+    <guid>http://localhost:3000/recipes.html</guid>
+    <pubDate>Wed, 02 Jul 2025 22:36:25 +0000</pubDate>
+    <description>सात्त्विक व्यंजन विधियाँ</description>
+  </item>
+  <item>
+    <title>सात्त्विकता और मानसिकता</title>
+    <link>http://localhost:3000/mindfulness.html</link>
+    <guid>http://localhost:3000/mindfulness.html</guid>
+    <pubDate>Wed, 02 Jul 2025 22:36:25 +0000</pubDate>
+    <description>सात्त्विकता और मानसिकता</description>
+  </item>
+  <item>
+    <title>परिशिष्ट</title>
+    <link>http://localhost:3000/appendix.html</link>
+    <guid>http://localhost:3000/appendix.html</guid>
+    <pubDate>Wed, 02 Jul 2025 22:36:25 +0000</pubDate>
+    <description>परिशिष्ट</description>
+  </item>
+  <item>
+    <title>लेखक परिचय</title>
+    <link>http://localhost:3000/about.html</link>
+    <guid>http://localhost:3000/about.html</guid>
+    <pubDate>Wed, 02 Jul 2025 22:36:25 +0000</pubDate>
+    <description>लेखक परिचय</description>
+  </item>
+</channel>
+</rss>

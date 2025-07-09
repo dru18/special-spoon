@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>My Sattvik Book</title>
+  <link href="http://localhost:3000/atom.xml" rel="self" />
+  <link href="http://localhost:3000/" />
+  <updated>2025-07-03T03:13:45+05:30</updated>
+  <id>http://localhost:3000/</id>
+  <author>
+    <name>dru</name>
+  </author>
+  <entry>
+    <title>भूमिका</title>
+    <link href="http://localhost:3000/preface.html"/>
+    <id>http://localhost:3000/preface.html</id>
+    <updated>2025-07-03T03:13:45+05:30</updated>
+    <summary>भूमिका</summary>
+  </entry>
+  <entry>
+    <title>सात्त्विक जीवन क्या है?</title>
+    <link href="http://localhost:3000/what-is-sattvik.html"/>
+    <id>http://localhost:3000/what-is-sattvik.html</id>
+    <updated>2025-07-03T03:13:45+05:30</updated>
+    <summary>सात्त्विक जीवन क्या है?</summary>
+  </entry>
+  <entry>
+    <title>दैनिक जीवन में सात्त्विकता</title>
+    <link href="http://localhost:3000/daily-rhythm.html"/>
+    <id>http://localhost:3000/daily-rhythm.html</id>
+    <updated>2025-07-03T03:13:45+05:30</updated>
+    <summary>दैनिक जीवन में सात्त्विकता</summary>
+  </entry>
+  <entry>
+    <title>सात्त्विक आहार</title>
+    <link href="http://localhost:3000/sattvik-foods.html"/>
+    <id>http://localhost:3000/sattvik-foods.html</id>
+    <updated>2025-07-03T03:13:45+05:30</updated>
+    <summary>सात्त्विक आहार</summary>
+  </entry>
+  <entry>
+    <title>सात्त्विक व्यंजन विधियाँ</title>
+    <link href="http://localhost:3000/recipes.html"/>
+    <id>http://localhost:3000/recipes.html</id>
+    <updated>2025-07-03T03:13:45+05:30</updated>
+    <summary>सात्त्विक व्यंजन विधियाँ</summary>
+  </entry>
+  <entry>
+    <title>सात्त्विकता और मानसिकता</title>
+    <link href="http://localhost:3000/mindfulness.html"/>
+    <id>http://localhost:3000/mindfulness.html</id>
+    <updated>2025-07-03T03:13:45+05:30</updated>
+    <summary>सात्त्विकता और मानसिकता</summary>
+  </entry>
+  <entry>
+    <title>परिशिष्ट</title>
+    <link href="http://localhost:3000/appendix.html"/>
+    <id>http://localhost:3000/appendix.html</id>
+    <updated>2025-07-03T03:13:45+05:30</updated>
+    <summary>परिशिष्ट</summary>
+  </entry>
+  <entry>
+    <title>लेखक परिचय</title>
+    <link href="http://localhost:3000/about.html"/>
+    <id>http://localhost:3000/about.html</id>
+    <updated>2025-07-03T03:13:45+05:30</updated>
+    <summary>लेखक परिचय</summary>
+  </entry>
+</feed>
